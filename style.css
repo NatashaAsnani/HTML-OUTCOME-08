@@ -1,0 +1,30 @@
+a{
+    text-decoration: dotted;
+    border-radius: 10px;
+    width: 50px;
+    background-color: rgb(211, 134, 39);
+    color: black;
+    margin: 20px, 20px;
+    padding: 30px;
+
+}
+div {
+    margin: 27px 400px;
+    padding: 27px;
+}
+
+h1{
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: bolder;
+}
+img {
+    margin: auto;
+    width: 55%;
+    height: 88%;
+}
+a:hover{
+    background-color: rgb(38, 205, 149);
+}
+
+
